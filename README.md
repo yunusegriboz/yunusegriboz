@@ -10,11 +10,11 @@ Yeni teknolojilere ve trendlere karşı büyük bir ilgi duyuyor ve yazılım ge
 
 📊 GitHub Stats:
 ----------------------------
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,threejs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,threejs,python,cpp)](https://skillicons.dev)
 
 <a href="https://github.com/yunusegriboz/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yunusegriboz&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yunusegriboz&show_icons=true" alt="yunusegriboz" />
 </a>
 <a href="https://github.com/yunusegriboz/top-langs">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusegriboz&layout=donut" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusegriboz&layout=donut&locale=en" alt="yunusegriboz" />
 </a>
